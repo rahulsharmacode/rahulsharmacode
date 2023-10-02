@@ -4,9 +4,9 @@
 
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" align="right" width="400px" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulcodeword&label=Profile%20views&color=0e75b6&style=flat" alt="rahulcodeword" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsharmacode&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsharmacode" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sketchop" target="blank"><img src="https://img.shields.io/twitter/follow/sketchop?logo=twitter&style=for-the-badge" alt="sketchop" /></a> </p>
+<p align="left"> <a href="https://twitter.com/xrahulsharma" target="blank"><img src="https://img.shields.io/twitter/follow/sketchop?logo=twitter&style=for-the-badge" alt="sketchop" /></a> </p>
 
 - 🔭 I’m currently working on **School Managment Website**
 

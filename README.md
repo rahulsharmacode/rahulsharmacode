@@ -1,4 +1,4 @@
-<img src="https://ibb.co/6J1g36yV" />
+<img src="https://i.ibb.co/NnmZ8wFQ/li.png" />
 <h1 align="center">Hi 👋, I'm Rahul Sharma</h1>
 <h3 align="center">A passionate fullstack developer.</h3>
 

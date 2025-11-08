@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/DVc2gXn/Blue-Modern-Designer-Linked-In-Banner.jpg" />
+<img src="https://ibb.co/6J1g36yV" />
 <h1 align="center">Hi 👋, I'm Rahul Sharma</h1>
 <h3 align="center">A passionate fullstack developer.</h3>
 

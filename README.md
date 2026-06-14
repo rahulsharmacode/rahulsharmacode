@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/Qxh2SLpY/li.png" />
+<img src="https://i.postimg.cc/509d8z0p/info-banner.png" />
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/sharmarahul) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://fb.com/aone.rahul.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/@aonerahul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/at-rahulsharma) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/xrahulsharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tryrahulsharma@gmail.com) 
